@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">M-Expense</string>
+    <string-array name="HikeName">
+        <item>
+
+            Climbing
+        </item>
+        <item>
+            Jogging
+        </item>
+        <item>
+            Walk
+        </item>
+        <item>
+            Take a walk
+        </item>
+        <item>
+            Run fast
+        </item>
+    </string-array>
+    <string-array name="ObservationName">
+        <item>
+            Mountain View
+        </item>
+        <item>
+            Sightseeing
+        </item>
+        <item>
+            See animals
+        </item>
+        <item>
+            View Flowers
+        </item>
+        <item>
+            Other
+        </item>
+    </string-array>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="search">Search</string>
+</resources>
